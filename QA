@@ -12,3 +12,6 @@ A: https://en.wikipedia.org/wiki/Software_testing#Testing_levels
 
 Q: Software testing method?
 A: https://en.wikipedia.org/wiki/Software_testing#Testing_methods
+
+Q: What is a pointer?
+A: In simple way, a pointer is a variable that store address of another variable.
