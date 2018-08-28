@@ -18,3 +18,7 @@ A: In simple way, a pointer is a variable that store address of another variable
 
 Q: What is difference between global and static variables in C?
 A: http://codingstreet.com/c-basic-questions/what-is-difference-between-global-and-static-variables-in-c/
+
+Q: What is "inline" macro?
+A: https://blogs.oracle.com/d/inline-functions-in-c
+
