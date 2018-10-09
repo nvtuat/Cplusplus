@@ -22,3 +22,12 @@ A: http://codingstreet.com/c-basic-questions/what-is-difference-between-global-a
 Q: What is "inline" macro?
 A: https://blogs.oracle.com/d/inline-functions-in-c
 
+Q: What is the difference between char s[] and char *s?
+A: https://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s?rq=1
+
+Q: What is the difference between ++i and i++?
+A: https://stackoverflow.com/questions/24853/what-is-the-difference-between-i-and-i?rq=1
+
+Q: What is the difference between const int*, const int * const, and int const *?
+A: https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?rq=1
+
