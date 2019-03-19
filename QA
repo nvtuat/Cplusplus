@@ -7,12 +7,6 @@ A: https://www.tutorialspoint.com/compiler_design/compiler_design_overview.htm
 Q: What is Waterfall model?
 A: https://en.wikipedia.org/wiki/Waterfall_model
 
-Q: Software testing level?
-A: https://en.wikipedia.org/wiki/Software_testing#Testing_levels
-
-Q: Software testing method?
-A: https://en.wikipedia.org/wiki/Software_testing#Testing_methods
-
 Q: What is a pointer?
 A: In simple way, a pointer is a variable that store address of another variable.
 
@@ -31,3 +25,7 @@ A: https://stackoverflow.com/questions/24853/what-is-the-difference-between-i-an
 Q: What is the difference between const int*, const int * const, and int const *?
 A: https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?rq=1
 
+Q: What is the differnce between alloc and malloc ?
+A: https://medium.com/@jraleman/c-programming-language-functions-malloc-calloc-realloc-and-free-61cfc3e45da7
+
+Q: Write a "swap" function
