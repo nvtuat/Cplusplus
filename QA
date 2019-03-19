@@ -29,3 +29,15 @@ Q: What is the differnce between alloc and malloc ?
 A: https://medium.com/@jraleman/c-programming-language-functions-malloc-calloc-realloc-and-free-61cfc3e45da7
 
 Q: Write a "swap" function
+
+Q: What is a compiler and its phase ?
+A: https://www.geeksforgeeks.org/introduction-compiler-design/
+
+Q: What is a linker ?
+A: https://www.geeksforgeeks.org/compiler-design-linker/
+
+Q: Compiler vs Interpreter ?
+A: https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf
+
+Referrence:
+http://vncoding.net/tuyen-tap-200-cau-hoi-phong-van-lap-trinh-cc/
