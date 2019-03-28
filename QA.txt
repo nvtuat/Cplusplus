@@ -23,7 +23,8 @@ Q: What is the difference between const int*, const int * const, and int const *
 A: https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?rq=1
 
 Q: What is the differnce between alloc and malloc ?
-A: https://medium.com/@jraleman/c-programming-language-functions-malloc-calloc-realloc-and-free-61cfc3e45da7
+A: https://stackoverflow.com/questions/32685851/alloc-malloc-and-alloca-whats-the-difference
+   https://medium.com/@jraleman/c-programming-language-functions-malloc-calloc-realloc-and-free-61cfc3e45da7
 
 Q: Write a "swap" function
 
