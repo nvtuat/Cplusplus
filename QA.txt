@@ -4,18 +4,14 @@ A: https://www.geeksforgeeks.org/difference-structure-union-c/
 Q: Compiler Design?
 A: https://www.tutorialspoint.com/compiler_design/compiler_design_overview.htm
 
-Q: What is Waterfall model?
-A: https://en.wikipedia.org/wiki/Waterfall_model
+Q: What is function pointer?
+A: https://www.geeksforgeeks.org/function-pointer-in-c/
 
 Q: What is a pointer?
 A: In simple way, a pointer is a variable that store address of another variable.
 
 Q: What is difference between global and static variables in C?
 A: http://codingstreet.com/c-basic-questions/what-is-difference-between-global-and-static-variables-in-c/
-
-Q: What is "inline" macro?
-A: https://blogs.oracle.com/d/inline-functions-in-c
-   https://www.geeksforgeeks.org/inline-functions-cpp/
 
 Q: What is the difference between char s[] and char *s?
 A: https://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s?rq=1
