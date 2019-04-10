@@ -1,45 +1,12 @@
+/* ------------------------------- Data structure ------------------------------- */
 Q: Compare struct and union?
 A: https://www.geeksforgeeks.org/difference-structure-union-c/
+Q: What is Union use for?
+A: To reduce memory size, define register that sometimes we just want to access bit. 
 
-Q: Compiler Design?
-A: https://www.tutorialspoint.com/compiler_design/compiler_design_overview.htm
-
-Q: What is function pointer?
-A: https://www.geeksforgeeks.org/function-pointer-in-c/
-
-Q: What is a pointer?
-A: In simple way, a pointer is a variable that store address of another variable.
-
-Q: What is difference between global and static variables in C?
-A: http://codingstreet.com/c-basic-questions/what-is-difference-between-global-and-static-variables-in-c/
-
-Q: What is the difference between char s[] and char *s?
-A: https://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s?rq=1
 
 Q: What is the difference between ++i and i++?
 A: https://stackoverflow.com/questions/24853/what-is-the-difference-between-i-and-i?rq=1
-
-Q: What is the difference between const int*, const int * const, and int const *?
-A: https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?rq=1
-
-Q: What is the differnce between alloc and malloc ?
-A: https://stackoverflow.com/questions/32685851/alloc-malloc-and-alloca-whats-the-difference
-   https://medium.com/@jraleman/c-programming-language-functions-malloc-calloc-realloc-and-free-61cfc3e45da7
-
-Q: Write a "swap" function
-
-Q: What is a compiler and its phase ?
-A: https://www.geeksforgeeks.org/introduction-compiler-design/
-
-Q: What is a linker ?
-A: https://www.geeksforgeeks.org/compiler-design-linker/
-
-Q: Compiler vs Interpreter ?
-A: https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf
-
-Q: Write convert function
-A: https://www.geeksforgeeks.org/program-decimal-hexadecimal-conversion/
-   https://www.geeksforgeeks.org/program-to-convert-hexadecimal-number-to-binary/
 
 Q: Compare array vs linked list ?
 A: https://www.geeksforgeeks.org/linked-list-vs-array/
@@ -49,6 +16,62 @@ A: https://www.geeksforgeeks.org/understanding-volatile-qualifier-in-c/
 
 Q: Can volatile and const together ?
 A: https://embeddedgurus.com/barr-code/2012/01/combining-cs-volatile-and-const-keywords/
+Q: What is const volatile?
+A: Use for what registers that can be changed by hardware but can't in code scope (read-only registers).
+/* ------------------------------- Data structure ------------------------------- */
+
+
+/* ------------------------------- Compiler ------------------------------- */
+Q: Compiler Design?
+A: https://www.tutorialspoint.com/compiler_design/compiler_design_overview.htm
+
+Q: What is a compiler and its phase ?
+A: https://www.geeksforgeeks.org/introduction-compiler-design/
+
+Q: What is a linker ?
+A: https://www.geeksforgeeks.org/compiler-design-linker/
+
+Q: Compiler vs Interpreter ?
+A: https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf
+/* ------------------------------- Compiler ------------------------------- */
+
+
+/* ------------------------------- Pointer ------------------------------- */
+Q: What is a pointer?
+A: In simple way, a pointer is a variable that store address of another variable.
+
+Q: What is function pointer?
+A: https://www.geeksforgeeks.org/function-pointer-in-c/
+Q: What's the use of it?
+A: Function pointers can be useful when you want to create callback mechanism, and need to pass address of an function to    another function.
+They can also be useful when you want to store an array of functions, to call dynamically for example.
+
+Q: What is the differnce between alloc and malloc ?
+A: https://stackoverflow.com/questions/32685851/alloc-malloc-and-alloca-whats-the-difference
+   https://medium.com/@jraleman/c-programming-language-functions-malloc-calloc-realloc-and-free-61cfc3e45da7
+
+Q: What is the difference between const int*, const int * const, and int const *?
+A: https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?rq=1
+
+Q: What is the difference between char s[] and char *s?
+A: https://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s?rq=1
+
+Q: What is difference between global and static variables in C?
+A: http://codingstreet.com/c-basic-questions/what-is-difference-between-global-and-static-variables-in-c/
+/* ------------------------------- Pointer ------------------------------- */
+
+/* ------------------------------- Algorithms ------------------------------- */
+Q: Write convert function
+A: https://www.geeksforgeeks.org/program-decimal-hexadecimal-conversion/
+   https://www.geeksforgeeks.org/program-to-convert-hexadecimal-number-to-binary/
+
+Q: Write a "swap" function.
+
+Q: Get the higtest bit, bit '4', shift, and, or, xor function etc.
+
+Q: Get the odd, even value from array.
+/* ------------------------------- Algorithms ------------------------------- */
+
 
 Quiz:
 https://www.geeksforgeeks.org/quiz-corner-gq/#C
